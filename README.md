@@ -1,3 +1,0 @@
-# Thingworx
-
-Hi
